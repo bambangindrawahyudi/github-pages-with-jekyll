@@ -1,3 +1,3 @@
 # Welcome to my blog
 
-I'm glad you are here. I plan to talk about ...
+Saya adalah pengguna baru di github saya ingin banyak belajar apa itu pemroggraman dengan menggunakan github ino
